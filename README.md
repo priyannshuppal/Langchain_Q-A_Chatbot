@@ -64,6 +64,8 @@ Enter your query in the input box and see the chatbot response.
 
 
 💡 Usage Example
+
+
 User: What is LangChain?'
 
 Bot: LangChain is a framework for building applications with LLMs...
