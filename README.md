@@ -56,13 +56,16 @@ LANGCHAIN_API_KEY=<your_langchain_api_key>
 
 
 🖥️ Running the Chatbot
-streamlit run app.py
+==streamlit run app.py
 
 
 Enter your query in the input box and see the chatbot response.
 
+
+
 💡 Usage Example
-User: What is LangChain?
+User: What is LangChain?'
+
 Bot: LangChain is a framework for building applications with LLMs...
 
 ⚙️ Notes
